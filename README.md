@@ -2,7 +2,6 @@ TRISTAN BRAND ST10467724
 INSY6112 INFORMATION SYSTEMS 1B
 ASSIGNMENT 1
 
-FILES:
     DESC                         QUESTION         TYPE          NAME
 =================================================================================================================
 1. ASSIGNMENT DOCUMENT          [QUESTION 1]     DOCX          TRISTAN_BRAND_ST10467724_INSY6112_ASSIGNMENT_1.DOCX
